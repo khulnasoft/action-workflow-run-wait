@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - id: release
-        uses: khulnasoft/action-semantic-release@v1
+        uses: khulnasoft-lab/action-semantic-release@master
         with:
           config: ${{ github.workspace }}/.semantic.json
         env:
