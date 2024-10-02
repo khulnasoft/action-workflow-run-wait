@@ -8,6 +8,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: khulnasoft/action-commit-lint@v1
+      - uses: khulnasoft-lab/action-commit-lint@main
         with:
           config: .github/linters/.commit-lint.yml
