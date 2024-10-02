@@ -5,7 +5,7 @@
   "description": "wait for all `workflow_run` required workflows to be successful",
   "author": {
     "name": "KhulnaSoft Ltd",
-    "email": "ahmad@khulnasoft.com",
+    "email": "info@khulnasoft.com",
     "url": "https://khulnasoft.com"
   },
   "scripts": {
